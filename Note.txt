@@ -1,0 +1,5 @@
+Main category - http://localhost:4255/api/Category
+
+Sub Category - http://localhost:4255/api/Category/4
+
+Create Customer - http://localhost:4255/CustomerDetails/CreateCustomer
